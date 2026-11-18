@@ -1,5 +1,5 @@
 
-from nodes import NodeManager
+from node import NodeManager
 
 
 def seed_database(driver):
